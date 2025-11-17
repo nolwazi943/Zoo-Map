@@ -1,4 +1,3 @@
-#Zoo-Map
 live demo:  https://nolwazi943.github.io/Zoo-Map/
 
 • Built an app that helps visitors navigate different
