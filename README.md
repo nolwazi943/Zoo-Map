@@ -1,2 +1,3 @@
 # Zoo-Map
-This map is going to show direction around the zoo
+A map that is going to show you around the zoo, i built it using html, css, javascript
+live demo:  https://nolwazi943.github.io/Zoo-Map/
