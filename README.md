@@ -1,3 +1,8 @@
-# Zoo-Map
-A map that is going to show you around the zoo, i built it using html, css, javascript
+#Zoo-Map
 live demo:  https://nolwazi943.github.io/Zoo-Map/
+
+• Built an app that helps visitors navigate different
+areas of the zoo.
+• Applied HTML, CSS, and basic JavaScript to create
+interactive elements.
+• Improved debugging and layout structuring skills.
